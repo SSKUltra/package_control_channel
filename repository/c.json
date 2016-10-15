@@ -1944,7 +1944,6 @@
 				}
 			]
 		},
-		
 		{
 			"name": "ColobotSyntaxHighlighting",
 			"details": "https://github.com/MrSimbax/sublime-colobot-syntax",
